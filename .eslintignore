@@ -1,0 +1,12 @@
+#Configuration files
+*.eslintrc
+.gitignore
+.babelrc
+package.json
+package-lock.json
+
+
+#Markdown files
+LICENSE
+README.md
+CONTRIBUTING.md
